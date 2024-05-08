@@ -8,7 +8,7 @@
             padding: 0;
             background-color: #f3f3f3;
             color: #333;
-        }
+             }
         header {
             background-color: #24292e;
             color: #fff;
@@ -39,7 +39,6 @@
     </style>
 </head>
 <body>
-
 <header>
     <h1>Your Name</h1>
     <p>Welcome to My GitHub Profile</p>
@@ -48,17 +47,13 @@
 <div class="container">
     <h2>About Me</h2>
     <p>This is where you can introduce yourself and tell visitors about your interests, skills, and projects.</p>
-    
     <h2>Projects</h2>
     <p>Here you can list some of your projects or link to repositories you want to highlight.</p>
-    
     <h2>Contact</h2>
     <p>You can provide contact information or links to your social media profiles.</p>
 </div>
-
 <footer class="footer">
     <p>&copy; 2024 Your Name</p>
 </footer>
-
 </body>
 </html>
