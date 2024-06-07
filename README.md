@@ -1,6 +1,6 @@
 ## Sounak Nandi
 
-**Motivated first-year Bachelor of Technology student in Computer Science and Engineering seeking an internship opportunity to apply and further develop programming skills in Python, AI and MI, HTML, CSS, JavaScript, MySQL, and C/C++. Eager to contribute to real-world projects, gain hands-on experience, and learn from industry professionals to accelerate personal and professional growth in the field of technology.**
+**Motivated 2nd-year Bachelor of Technology student in Computer Science and Engineering seeking an internship opportunity to apply and further develop programming skills in Python, AI and MI, HTML, CSS, JavaScript, MySQL, and C/C++. Eager to contribute to real-world projects, gain hands-on experience, and learn from industry professionals to accelerate personal and professional growth in the field of technology.**
 
 **Contact:**
 
