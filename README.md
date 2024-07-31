@@ -1,36 +1,22 @@
-## Sounak Nandi
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GIF Image" />
+</p>
 
-**A motivated 2nd-year B.Tech student in Computer Science and Engineering (CSE) at Heritage Institute of Technology, Kolkata (an autonomous institution affiliated with MAKAUT, West Bengal, accredited with an 'A' Grade by NAAC). Seeking an internship to apply my skills, contribute to real-world projects, and gain hands-on experience. Eager to learn from professionals to accelerate my personal and professional growth in the technology field.**
+<h1 align="center">Hey👋, I'm SOUNAK, nice to meet y'all😊</h1>
+<pre align="left">
+Who's this cool guy ?! <br> A passonate 2nd-year B.Tech student in Computer Science and Engineering (CSE) at Heritage Institute of Technology, Kolkata.
+</pre>
 
-**Contact:**
+<h3 align="left">Here's how we could connect:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sounaknandi/" target="_blank">
+    <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="20" width="20" style="vertical-align: middle;" />
+    <span style="text-decoration:none;">&nbsp;LinkedIn</span>
+  </a>
+<br>
+  <a href="n.sounak9832@gmail.com" target="_blank">
+    <img align="top" src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" height="20" width="20" style="vertical-align: middle;" />
+    <span style="text-decoration:none;">&nbsp;Gmail</span>
+  </a>
+</p>
 
-* Email: [n.sounak9832@gmail.com](mailto:n.sounak9832@gmail.com)
-* Linkedin: https://in.linkedin.com/in/sounak-nandi-85a1156
-
-**TECHNICAL SKILLS**
-
-* Languages : Python, C, C++, JavaScript, MYSQL
-* Frameworks & Libraries: TensorFlow, PyTorch, OpenCV, Pygame, Tkinter, Ultralytics, Pandas
-* Operating Systems: Linux, Windows
-* Core Concepts: Data Structures and Algorithms (DSA)
-* Others: Google Suite, MS Office (Word, Excel, PowerPoint), VSCode, PyCharm, Jupyter Notebook
-
-**Education**
-
-* B.Tech. in Computer Science and Engineering (CSE) (Expected 2027) - Heritage Institute of Technology, Kolkata
-
-**Projects**
-
-* **Gesture-controlled rock-paper-scissors game with OpenCV:** [link to project] - Developed a game using OpenCV for gesture-based input and comparison with computer choices. Implemented computer vision techniques for hand detection and gesture recognition. Integrated game logic for an interactive experience.
-* **Real-time object detection with YOLO and OpenCV:** [link to project] - Utilized YOLOV8 for real-time object detection on webcam feed. Provided bounding boxes and labels for recognized objects. Integrated YOLO model with OpenCV for seamless real-time object detection.
-* **Space shooter game with Pygame:** [link to project] - Developed a Space Shooter game using Pygame library. Implemented player movement, enemy generation, collision detection, and scoring mechanisms. Enhanced user experience with interactive UI elements.
-* **Basic snake game with Pygame:** [link to project] - Created a classic Snake game in Python using Pygame library. Implemented snake movement, food generation, collision detection, and score tracking. Offered a simple yet engaging gameplay experience.
-
-**Certifications**
-
-* Crash Course on Python-Google Link
-
-**Leadership & Achievements**
-
-* All India exam qualified: JEE Mains, WBJEE
-* Served as school captain and effectively represented the student body in various school events and activities
