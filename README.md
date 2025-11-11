@@ -5,7 +5,7 @@
 <h1 align="center">Hey👋, I'm SOUNAK, nice to meet y'all😊</h1>
 
 ### Who's this cool guy ?!
-A passonate 2nd-year B.Tech student in Computer Science and Engineering (CSE) at Heritage Institute of Technology, Kolkata.
+A passonate 3rd-year B.Tech student in Computer Science and Engineering (CSE) at Heritage Institute of Technology, Kolkata.
 
 <h3 align="left">Here's how we could connect:</h3>
 <p align="left">
